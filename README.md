@@ -1,4 +1,4 @@
-<p align="left">Hi, I'm Amanda, an AI/ML Engineer. <br>Welcome to my Github!</p>
+<h3 align="left">Hi, I'm Amanda, an AI/ML Engineer. <br>Welcome to my Github!</h3>
 
 ###
 
